@@ -2,12 +2,12 @@
 
 I'm a .Net developer from West Yorkshire in England, and I like to tinker with other languages and technologies, too.
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - Home Automation
 - MIDI control devices
 - Radio technologies
 
-But you can find a wide variety of projectd, some old, some now, in the repos here.
+But you can find a wide variety of projects, some old, some now, in the repos here.
 
 <!--
 **MarcJenningsUK/MarcJenningsUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
