@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I'm Marc.
 
+I'm a .Net developer from West Yorkshire in England, and I like to tinker with other languages and technologies, too.
+
+- 🔭 I’m currently working on ...
 <!--
 **MarcJenningsUK/MarcJenningsUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
